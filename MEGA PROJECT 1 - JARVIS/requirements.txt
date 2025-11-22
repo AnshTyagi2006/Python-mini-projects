@@ -1,0 +1,10 @@
+ speech_recognition 
+ webbrowser
+ pyttsx3
+ datetime
+ pywhatkit
+ pyjokes
+ playsound 
+ os
+ g4f
+ requests
