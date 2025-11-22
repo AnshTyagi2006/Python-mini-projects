@@ -3,47 +3,8 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Python Projects – By Ansh Tyagi</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background: #0d1117;
-        color: #e6edf3;
-        line-height: 1.6;
-        padding: 20px;
-    }
-    h1, h2, h3 {
-        color: #58a6ff;
-    }
-    .badge {
-        background: #1f6feb;
-        padding: 6px 10px;
-        border-radius: 8px;
-        color: #fff;
-        font-size: 13px;
-        margin-right: 6px;
-    }
-    pre {
-        background: #161b22;
-        padding: 15px;
-        border-radius: 6px;
-        overflow-x: auto;
-    }
-    a {
-        color: #58a6ff;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    .project-card {
-        background: #161b22;
-        padding: 15px;
-        border-radius: 8px;
-        margin-bottom: 15px;
-        border-left: 4px solid #58a6ff;
-    }
-</style>
+
+
 </head>
 <body>
 
